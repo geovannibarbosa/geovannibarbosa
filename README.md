@@ -1,6 +1,6 @@
 <h1 align="center">Olá , eu sou Geovanni Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End+Developer;Python%20Developer;Portuguese%20|%20English;Sempre%20aprendendo%20coisas%20novas&center=true&width=500&height=50&font=georgia&color=4E3366"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Python;Portuguese%20|%20English;Always%20Learning%20new%20things&center=true&width=500&height=50&font=georgia&color=4E3366"></a>
 </p>
 <hr/>
 <!-- <h4 align="center">I am a SDE at JP Morgan Chase & Co. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
