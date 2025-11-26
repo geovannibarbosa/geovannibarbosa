@@ -62,8 +62,8 @@
 ### 👉Graphic Designing
 <p align="left">
   &emsp;  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Figma-0D0C0F?style=flat&logo=figma&logoColor=white"/>
+   <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-0D0C0F?style=flat&logo=figma&logoColor=white"/>
   </a> 
     &emsp;
   <a href="#">
